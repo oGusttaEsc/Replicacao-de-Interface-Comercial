@@ -1,0 +1,24 @@
+body{
+    background-color: #eeeeee;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    background-color: #dfdfdf;
+    margin: 0;
+    padding: 1px 0 0 0;
+}
+
+#space {
+    background-color: yellow;
+    margin: 0;
+    padding-top: 20px;
+}
+
+#navbar_func {
+    padding: 5px 0 5px 0;
+}
+
+#navbar_func button {
+    margin-left: 10px;
